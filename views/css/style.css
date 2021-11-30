@@ -1,0 +1,48 @@
+.containerCli01 { 
+    width: 700px; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+.containerClicolor { 
+    background-color: rgba(17, 61, 182, 0.849);
+    color: white;
+}
+.containerFun01 { 
+    width: 700px; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+.containerFuncolor { 
+    background-color: rgba(17, 61, 182, 0.849);
+    color: white;
+}
+.containerJog01 { 
+    width: 700px; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+.containerJogcolor { 
+    background-color: rgba(17, 61, 182, 0.849);
+    color: white;
+}
+.containerUsu01 { 
+    width: 700px; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+.containerUsucolor { 
+    background-color: rgba(17, 61, 182, 0.849);
+    color: white;
+}
+.sla{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.formlogin{
+margin: 20px;
+margin-left: 330px;
+margin-right: 330px;
+}
